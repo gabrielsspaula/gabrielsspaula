@@ -4,8 +4,14 @@ Sou um futuro atuante na área de T.I em busca da profissão dos sonhos, em proc
 Algumas formações em andamento: 📚🛠💻
 
 ◼Infraestrutura de redes e computadores;
+
 ◼Desenvolvimento de Sistemas;
+
 ◼Banco de dados;
+
 ◼Interface e Usabilidade;
+
 ◼Redes de Computadores;
+
 ◼Privacidade e Proteção de Dados;
+
